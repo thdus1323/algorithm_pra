@@ -1,10 +1,18 @@
 plugins {
     id 'java'
+<<<<<<< HEAD
     id 'org.springframework.boot' version '3.2.5'
     id 'io.spring.dependency-management' version '1.1.4'
 }
 
 group = 'com.example'
+=======
+    id 'org.springframework.boot' version '3.2.4'
+    id 'io.spring.dependency-management' version '1.1.4'
+}
+
+group = 'org.example'
+>>>>>>> b9fc2d7532f549e739beff259ea2dd223d70e93d
 version = '0.0.1-SNAPSHOT'
 
 java {
